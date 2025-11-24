@@ -10,7 +10,7 @@ To design a program that sorts a given array of integers in ascending order with
 5. Continue until all elements are extracted, producing a fully sorted array, then print the result.
 
 ## Program:
-```
+```JAVA
 /*
 Program tosorts a given array of integers in ascending order without using built-in sorting functions
 Developed by : Prajin S
